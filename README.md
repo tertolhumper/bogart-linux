@@ -58,7 +58,7 @@ After login, run:
 If you have an **NVIDIA GPU** (GTX/RTX series), Hyprland may **crash or show a black screen** on the first login attempt due to the open-source nouveau driver conflict.
 
 **Workaround:**
-1. When greetd login screen appears, press `Alt + F2 or Alt + F3` to switch to **TTY3**
+1. When greetd login screen appears, press `Alt + F2 or Alt + F3` to switch to **TTY2 or TTY3**
 2. Login as `tertol`
 3. Run `./start-hypr.sh` manually
 
