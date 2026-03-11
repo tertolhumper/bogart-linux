@@ -28,7 +28,7 @@
 ## Download
 
 - 📀 [ISO Download](https://archive.org/details/bogart-linux-1.3-live)
-- 🛡️ [VirusTotal Scan](https://virustotal.com/LINK_HERE) *(pending)*
+- 🛡️ [VirusTotal Scan](https://www.virustotal.com/gui/url/a6065f5b7c44bf46540c197ae3820777993d658568fa7a2b6641bebbbad19b29?nocache=1)
 - 🔑 MD5: `d3c97380b59aa9af424f55cc3ae31ec6`
 
 ---
