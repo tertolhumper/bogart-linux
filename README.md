@@ -143,12 +143,13 @@ Built entirely from source using [Linux From Scratch 13.0](https://www.linuxfrom
 
 ---
 
-## Known Issues
+## Known Issues/Workaround
 
 - NVIDIA GPU users need to use TTY2 or TTY3 workaround (see warning above)
-- `swappy` screenshot tool may freeze on some hardware
-- Super + H for pens the keybinds help/cheatsheet
-- If its lagging use Super Alt G
+- Swappy screenshot tool may freeze on some hardware
+- Super + H for opens the keybinds help/cheatsheet
+- Some keybinds might not working for reason I didn't compile and install it
+- If it's lagging use Super Alt G to disable some hyprland features
 - Live session is not persistent — changes are lost on reboot
 
 ---
