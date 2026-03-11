@@ -1,7 +1,7 @@
 # Bogart Linux 1.3
 
 <p align="center">
-  <https://imgur.com/a/XL8VeIl>
+  <<blockquote class="imgur-embed-pub" lang="en" data-id="a/XL8VeIl" data-context="false" ><a href="//imgur.com/a/XL8VeIl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>>
 </p>
 
 <p align="center">
