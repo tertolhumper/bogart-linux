@@ -145,12 +145,19 @@ Built entirely from source using [Linux From Scratch 13.0](https://www.linuxfrom
 
 ## Known Issues/Workaround
 
-- NVIDIA GPU users need to use TTY2 or TTY3 workaround (see warning above)
-- Swappy screenshot tool may freeze on some hardware
-- Super + H for opens the keybinds help/cheatsheet
-- Some keybinds might not work for reason I didn't compile and install it
-- If it's lagging use Super Alt G to disable some hyprland features
-- Live session is not persistent — changes are lost on reboot
+- NVIDIA GPU users need to use TTY2 or TTY3 workaround (see warning above).
+- Swappy screenshot tool may freeze on some hardware.
+- Super + H opens the keybinds help/cheatsheet.
+- Some keybinds might not work for reason I didn't compile and install it.
+- If it's lagging use Super Alt G to disable some hyprland features.
+- Live session is not persistent — changes are lost on reboot.
+
+---
+
+## Documentation
+- [Library & ldconfig Notes](docs/lfs-library-notes.md)
+- [Symlinking Notes](docs/lfs-symlinking-notes.md)
+- [Live ISO Build Notes](docs/live-iso-build-notes.md)
 
 ---
 
