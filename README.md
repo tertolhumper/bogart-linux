@@ -1,7 +1,7 @@
 # Bogart Linux 1.3
 
 <p align="center">
-  <img src="https://i.imgur.com/XL8VeIl.png" width="120"/>>
+  https://imgur.com/a/XL8VeIl
 </p>
 
 <p align="center">
