@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A custom <strong>Linux From Scratch (LFS/BLFS)</strong> based live distribution featuring <strong>Hyprland</strong> on Wayland.
+  A custom <strong>Linux From Scratch (LFS/BLFS)</strong> based live distribution featuring <strong>Hyprland</strong>.
 </p>
 
 ---
