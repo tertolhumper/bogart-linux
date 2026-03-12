@@ -95,7 +95,7 @@ Or in **virt-manager**:
 
 ## Hyprland Dotfiles
 
-The Hyprland configuration used in Bogart Linux is based on the excellent **[Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)** project by **[JaKooLit](https://github.com/JaKooLit)**, with personal modifications to fit the Bogart Linux environment and aesthetic.
+The Hyprland configuration used in Bogart Linux is based on the excellent **[Hyprland-Dots](https://github.com/LinuxBeginnings/Hyprland-Dots)** project by **[JaKooLit](https://github.com/JaKooLit)**, with personal modifications to fit the Bogart Linux environment and aesthetic.
 
 > 🙏 **Special thanks to JaKooLit** for creating and sharing such a polished and well-structured Hyprland configuration. His work made it significantly easier to build a functional and beautiful desktop experience on a from-scratch Linux system. Huge thanks as well to all the continuing maintainers and contributors who keep the project alive and improving — your efforts are very much appreciated by the community.
 
@@ -118,7 +118,7 @@ Configuration lives in `~/.config/hypr/`. Key files:
 - Color scheme: Custom warm brown/gold (`#BD9161`, `#C99962`)
 - Font: JetBrains Mono
 
-> For the original dotfiles and installation scripts, visit: https://github.com/JaKooLit/Hyprland-Dots
+> For the original dotfiles and installation scripts, visit: https://github.com/LinuxBeginnings/Hyprland-Dots
 
 ---
 
