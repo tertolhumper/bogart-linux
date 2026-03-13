@@ -65,8 +65,7 @@ This is a known limitation of the live ISO. NVIDIA proprietary drivers are not i
 
 ---
 
-## Testing in KVM/QEMU (Virtual Machine)
-Recommended.
+## Testing in KVM/QEMU (Virtual Machine) Recommended.
 
 No need for a full XML definition. Just use these parameters:
 
