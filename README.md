@@ -27,9 +27,9 @@
 
 ## Download
 
-- 📀 [ISO Download](https://archive.org/details/bogart-linux-1.3-live)
-- 🛡️ [VirusTotal Scan](https://www.virustotal.com/gui/url/a6065f5b7c44bf46540c197ae3820777993d658568fa7a2b6641bebbbad19b29?nocache=1)
-- 🔑 MD5: `d3c97380b59aa9af424f55cc3ae31ec6`
+- 📀 [ISO Download](https://archive.org/details/bogart-linux-1.3-live_202603)
+- 🛡️ [VirusTotal Scan](https://www.virustotal.com/gui/url/e5d3fbb0fb645e7b3d2ee614fe4a1ebb621dce159a376f64ef267a05b0be5eb8?nocache=1)
+- 🔑 MD5: `5b536253f3e86042550fa1ce667e8612`
 
 ---
 
@@ -55,8 +55,7 @@ After login, run:
 
 ## ⚠️ NVIDIA GPU Warning
 
-If you have an **NVIDIA GPU** (GTX/RTX series), Hyprland may **crash or show a black screen** on the first login attempt due to the open-source nouveau driver conflict.
-
+If you have an **NVIDIA GPU** (GTX/RTX series), Hyprland may **crash or show a black screen** on the first login attempt due to the open-source nouveau driver conflict. Some NVIDIA GPU hardware may not work.
 **Workaround:**
 1. When greetd login screen appears, press `Alt + F2 or Alt + F3` to switch to **TTY2 or TTY3**
 2. Login as `tertol`
@@ -67,6 +66,7 @@ This is a known limitation of the live ISO. NVIDIA proprietary drivers are not i
 ---
 
 ## Testing in KVM/QEMU (Virtual Machine)
+Recommended.
 
 No need for a full XML definition. Just use these parameters:
 
