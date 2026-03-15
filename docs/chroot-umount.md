@@ -24,8 +24,6 @@ HOME=/root \
 TERM="$TERM" \
 PS1="(lfs chroot) \u:\w\$ " \
 PATH=/usr/bin:/usr/sbin:/bin:/sbin \
-MAKEFLAGS="-j$(nproc)"      \
-TESTSUITEFLAGS="-j$(nproc)" \
 /bin/bash --login
 
 
