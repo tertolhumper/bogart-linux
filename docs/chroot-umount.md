@@ -15,7 +15,7 @@ mount --bind /dev /mnt/lfs/dev
 mount --bind /dev/pts /mnt/lfs/dev/pts
 mount -t proc proc /mnt/lfs/proc
 mount -t sysfs sysfs /mnt/lfs/sys
-mount -t tmpfs tmpfs /mnt/lfs/run
+mount --bind /run /mnt/lfs/run
 
 #2. Chroot
  
