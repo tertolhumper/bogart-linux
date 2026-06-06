@@ -25,12 +25,13 @@ After login run: ./start-hypr.sh
 Use Ventoy. Copy ISO to Ventoy partition, boot and select from menu.
 
 ## QEMU
+```
 qemu-system-x86_64 -enable-kvm -m 8192 -smp 4 \
   -bios /usr/share/ovmf/OVMF.fd \
   -drive file=bogart-linux-1.3-live.iso,media=cdrom,if=ide \
   -boot d -vga virtio -display spice-app \
   -device virtio-net,netdev=net0 -netdev user,id=net0
-
+```
 ## NVIDIA Warning
 Proprietary drivers not included. If Hyprland crashes, switch to TTY2/TTY3
 and run ./start-hypr.sh manually.
