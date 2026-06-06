@@ -1,3 +1,6 @@
+# IMPORTANT: Backup fstab first before running step 1
+cp /etc/fstab /etc/fstab.install
+
 # 1. Change fstab
 cat > /etc/fstab << 'EOF'
 # Begin /etc/fstab
