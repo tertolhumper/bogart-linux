@@ -5,7 +5,7 @@ mount -o subvol=@home /dev/nvme1n1p2 /mnt/home
 mount -o subvol=@cache /dev/nvme1n1p2 /mnt/var/cache
 mount -o subvol=@log /dev/nvme1n1p2 /mnt/var/log
 mount -o subvol=@tmp /dev/nvme1n1p2 /mnt/var/tmp
-mount -o subvol=@libvirt /dev/nvme1n1p2 /mnt/var/lib/libvirt/images
+mount -o subvol=@images /dev/nvme1n1p2 /mnt/var/lib/libvirt/images
 
 mount /dev/nvme1n1p1 /mnt/boot/efi
 
